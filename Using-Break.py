@@ -1,6 +1,8 @@
-s="python"
-for i in s:
-    if i=="h":
+lst=["arshad","afsar","azhar","abid","aquib","ayshu"]
+n=len(lst)
+i=0
+while i<n:
+    if lst[i]=="azhar":
         break
-    else:
-      print("{}".format(i))
+    print("{}".format(lst[i]))
+    i+=1
