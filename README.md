@@ -1,4 +1,2 @@
 # -beginner-data-projects
-This is my first Git Repository.
-<br>
-Author- MD Arshad Hussain
+jetbrains://pycharm/navigate/reference?project=datamites11.py&path=
